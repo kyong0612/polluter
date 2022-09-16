@@ -11,7 +11,7 @@ Mainly this package was created for testing purposes, to give the ability to see
 ```go
 package main
 
-import "github.com/romanyx/polluter"
+import "github.com/kyong0612/polluter"
 
 const input = `
 roles:
