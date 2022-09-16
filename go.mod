@@ -1,4 +1,4 @@
-module github.com/kyong061/polluter
+module github.com/kyong0612/polluter
 
 go 1.18
 
