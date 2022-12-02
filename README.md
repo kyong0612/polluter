@@ -34,7 +34,7 @@ func TestX(t *testing.T) {
 
 ## Examples
 
-[See](https://github.com/kyon0612/polluter/blob/master/polluter_test.go#L109) examples of usage with parallel testing.
+[See](https://github.com/kyong0612/polluter/blob/master/polluter_test.go#L110) examples of usage with parallel testing.
 
 ## Testing
 
