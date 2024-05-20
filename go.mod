@@ -3,9 +3,9 @@ module github.com/kyong0612/polluter
 go 1.18
 
 require (
-	github.com/DATA-DOG/go-txdb v0.1.0
+	github.com/DATA-DOG/go-txdb v0.1.8
 	github.com/go-redis/redis v6.14.0+incompatible
-	github.com/go-sql-driver/mysql v1.4.0
+	github.com/go-sql-driver/mysql v1.7.1
 	github.com/jackc/pgx/v4 v4.17.2
 	github.com/ory/dockertest v3.3.2+incompatible
 	github.com/pkg/errors v0.8.1
@@ -44,7 +44,6 @@ require (
 	golang.org/x/net v0.0.0-20211112202133-69e39bad7dc2 // indirect
 	golang.org/x/sys v0.0.0-20211116061358-0a5406a5449c // indirect
 	golang.org/x/text v0.3.7 // indirect
-	google.golang.org/appengine v1.1.0 // indirect
 	gopkg.in/fsnotify.v1 v1.4.7 // indirect
 	gopkg.in/tomb.v1 v1.0.0-20141024135613-dd632973f1e7 // indirect
 	gopkg.in/yaml.v3 v3.0.1 // indirect
