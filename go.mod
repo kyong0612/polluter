@@ -7,7 +7,7 @@ require (
 	github.com/go-redis/redis v6.14.0+incompatible
 	github.com/go-sql-driver/mysql v1.7.1
 	github.com/jackc/pgx/v4 v4.17.2
-	github.com/ory/dockertest v3.3.2+incompatible
+	github.com/ory/dockertest v3.3.5+incompatible
 	github.com/pkg/errors v0.8.1
 	github.com/romanyx/jwalk v1.0.0
 	github.com/stretchr/testify v1.8.0
