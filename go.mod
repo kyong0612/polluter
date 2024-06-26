@@ -4,7 +4,7 @@ go 1.18
 
 require (
 	github.com/DATA-DOG/go-txdb v0.1.8
-	github.com/go-redis/redis v6.14.0+incompatible
+	github.com/go-redis/redis v6.15.9+incompatible
 	github.com/go-sql-driver/mysql v1.7.1
 	github.com/jackc/pgx/v4 v4.17.2
 	github.com/ory/dockertest v3.3.5+incompatible
