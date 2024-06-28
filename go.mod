@@ -5,7 +5,7 @@ go 1.18
 require (
 	github.com/DATA-DOG/go-txdb v0.1.8
 	github.com/go-redis/redis v6.15.9+incompatible
-	github.com/go-sql-driver/mysql v1.7.1
+	github.com/go-sql-driver/mysql v1.8.1
 	github.com/jackc/pgx/v4 v4.17.2
 	github.com/ory/dockertest v3.3.5+incompatible
 	github.com/pkg/errors v0.8.1
@@ -15,6 +15,7 @@ require (
 )
 
 require (
+	filippo.io/edwards25519 v1.1.0 // indirect
 	github.com/Azure/go-ansiterm v0.0.0-20170929234023-d6e3b3328b78 // indirect
 	github.com/Microsoft/go-winio v0.4.11 // indirect
 	github.com/Nvveen/Gotty v0.0.0-20120604004816-cd527374f1e5 // indirect
