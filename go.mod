@@ -6,7 +6,8 @@ require (
 	github.com/DATA-DOG/go-txdb v0.1.8
 	github.com/go-redis/redis v6.15.9+incompatible
 	github.com/go-sql-driver/mysql v1.8.1
-	github.com/jackc/pgx/v4 v4.18.3
+	github.com/jackc/pgx/v4 v4.12.1-0.20210724153913-640aa07df17c
+	github.com/jackc/pgx/v5 v5.6.0
 	github.com/ory/dockertest v3.3.5+incompatible
 	github.com/pkg/errors v0.9.1
 	github.com/romanyx/jwalk v1.0.0
