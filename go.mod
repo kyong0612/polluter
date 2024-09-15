@@ -1,6 +1,6 @@
 module github.com/kyong0612/polluter
 
-go 1.21
+go 1.21.1
 
 toolchain go1.23.1
 
