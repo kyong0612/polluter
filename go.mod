@@ -15,6 +15,7 @@ require (
 	github.com/romanyx/jwalk v1.0.0
 	github.com/stretchr/testify v1.9.0
 	gopkg.in/yaml.v2 v2.2.2
+	gopkg.in/yaml.v3 v3.0.1
 )
 
 require (
@@ -54,6 +55,5 @@ require (
 	github.com/pmezard/go-difflib v1.0.0 // indirect
 	gopkg.in/fsnotify.v1 v1.4.7 // indirect
 	gopkg.in/tomb.v1 v1.0.0-20141024135613-dd632973f1e7 // indirect
-	gopkg.in/yaml.v3 v3.0.1 // indirect
 	gotest.tools v2.2.0+incompatible // indirect
 )
